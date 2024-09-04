@@ -1,0 +1,30 @@
+{
+    "index": {
+      "title": "modules",
+      "type": "page"
+    },
+    "frameworks": {
+      "title": "api",
+      "type": "page"
+    },
+    "about": {
+      "title": "About",
+      "type": "page"
+    },
+    "zapier": {
+      "title": "Zapier",
+      "type": "menu",
+      "items": {
+        "triggers": {
+          "title": "Triggers",
+          "href": "/triggers"
+        },
+        "actions": {
+          "title": "Actions",
+          "href": "mailto:hi@example.com"
+        }
+      }
+    }
+
+  }
+  
